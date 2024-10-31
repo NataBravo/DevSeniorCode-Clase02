@@ -5,7 +5,7 @@ En este reto deberás programar la operación matemática "6 / 2 ( 1 + 2 )" util
 Rta: Es 9
 
 Explique por que la otra calculadora genera un resultado diferente.
-Rta: Porque realiza la operacion de izquierda a derecha sin tener encuenta la jeraquia de operadores.
+Rta: Porque realiza la operacion de derecha a izquierda sin tener encuenta la jeraquia de operadores.
   */
   
 public class JerarquiaOperador {
